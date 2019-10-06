@@ -1,0 +1,4 @@
+hi I am Lakshi.
+Actions are the things your bot runs in response to user input. There are four kinds of actions in Rasa:
+
+ 
